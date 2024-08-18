@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es2016", /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
+    "module": "ES2020", /* Specify what module code is generated. */
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "Node",
+    "outDir": "dist"
+  },
+  "include": ["src"]
+}
